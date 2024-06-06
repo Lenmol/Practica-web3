@@ -1,0 +1,29 @@
+.cabecera{
+    background-color: bisque;
+    display: flex;
+    height: 150px;
+    width: 90%;
+    margin: auto;
+    justify-content: space-between;
+}
+
+#logo{
+    width: auto;
+    padding: 9px;
+    margin-left: 10%;
+}
+
+#menu{
+    width: 40%;
+    margin-right: 10%;
+    background-color: aliceblue;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+}
+
+.opc{
+    font-size: 25px;
+    background-color: aqua;
+    margin-right: 15px;
+}
